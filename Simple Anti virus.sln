@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Simple Anti Virus", "Simple Anti Virus\Simple Anti Virus.pyproj", "{4D916F3B-FFCC-49E7-9861-418AB4D241B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D916F3B-FFCC-49E7-9861-418AB4D241B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D916F3B-FFCC-49E7-9861-418AB4D241B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC644297-AAF6-4C46-BD31-39B5806957E7}
+	EndGlobalSection
+EndGlobal
