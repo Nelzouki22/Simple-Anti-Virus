@@ -39,6 +39,9 @@ Detecting and stopping suspicious application behavior.
 Adding more complex malware detection algorithms.
 Contact Information
 Email: elzoukigroup2018@gmail.com
-LinkedIn: Nadir Elzouki
-YouTube: Nadir Elzouki
+
+LinkedIn: [Nadir Elzouki](https://www.linkedin.com/in/nadir-elzouki-40679a1a9/)
+
+YouTube: [Nadir Elzouki](https://www.youtube.com/@nadirelzouki4529)
+
 GitHub: Nelzouki22
